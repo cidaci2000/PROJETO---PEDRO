@@ -1,0 +1,22 @@
+
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    text-decoration: none;
+}
+header{background-color: grey;
+
+}
+body{
+    
+    background-image: url(animes.jpg);
+    color: lightslategrey;
+    
+}
+
+footer{
+    background-color: lime;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin: 100px;
+}
